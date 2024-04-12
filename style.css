@@ -1,0 +1,51 @@
+div.row div {
+    color:white;
+    background-color:#3a3c3d;
+    height: 290px;
+    text-align: left;
+    border: 1px #3a3c3d;
+    
+}
+
+div#spec{
+    height:50px;
+}
+
+div#spec2{
+    height:100px;
+}
+
+div.spacer {
+    height:30px;
+}
+
+h1{
+    color:white;
+}
+
+p{
+    color:white;
+}
+
+link{
+    color:white;
+}
+
+#navlink{
+    color:white;
+}
+
+img{
+    height:100px;
+    margin:20px;
+}
+
+img.spec{
+    height:280px;
+    margin:10px;
+}
+
+img.spec2{
+    height:120px;
+    margin:10px;
+}
